@@ -1,3 +1,7 @@
 Flask
 Flask-MySQLdb
+Flask-Migrate
+Werkzeug
+pymysql
+Flask-SQLALchemy
 gunicorn
